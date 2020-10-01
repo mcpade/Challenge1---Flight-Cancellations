@@ -1,9 +1,11 @@
-SDS Challenge #1 - Flight Cancellations
-María Araceli Paredes Delgado
-Problem Statement
+## SDS Challenge #1 - Flight Cancellations
+## María Araceli Paredes Delgado
+
+### Problem Statement
 Welcome, Data Scientist! You have recently been hired by the US Department of Transportation (DOT) to analyze data from multiple airline carriers in the United States. The DOT wants to help airline carriers reduce the number of flight cancellations and improve travelers' experiences. Your job is to help the DOT predict whether or not a flight will be canceled based on the data provided.
 
-Understanding the Dataset
+### Understanding the Dataset
+
 Each column in the dataset is labeled and explained in more detail below.
 
 YEAR: Year in which the flight was scheduled to take place
