@@ -38,9 +38,9 @@ Each column in the dataset is labeled and explained in more detail below.
 
 ## Evaluation
 
-$$\begin{equation*}
-accuracy = \frac{TP + TN}{TP + TN + FP + FN}
-\end{equation*}$$
+
+accuracy = (TP + TN) / (TP + TN + FP + FN)
+
 
 ## Dataset Files (data)
 
