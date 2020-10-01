@@ -8,37 +8,46 @@ Welcome, Data Scientist! You have recently been hired by the US Department of Tr
 
 Each column in the dataset is labeled and explained in more detail below.
 
-YEAR: Year in which the flight was scheduled to take place
+- YEAR: Year in which the flight was scheduled to take place
 
-MONTH: Month in which the flight was scheduled to take place
+- MONTH: Month in which the flight was scheduled to take place
 
-DAY: Day of the month the flight was scheduled to take place
+- DAY: Day of the month the flight was scheduled to take place
 
-DAY_OF_WEEK: Day of the week the flight took place
+- DAY_OF_WEEK: Day of the week the flight took place
 
-AIRLINE: Initials of the airline that was scheduled to carry out the flight
+- AIRLINE: Initials of the airline that was scheduled to carry out the flight
 
-FLIGHT_NUMBER: Initials of the airline that was scheduled to carry out the flight
+- FLIGHT_NUMBER: Initials of the airline that was scheduled to carry out the flight
 
-TAIL_NUMBER: Tail Number of the plane that was scheduled to carry out the flight
+- TAIL_NUMBER: Tail Number of the plane that was scheduled to carry out the flight
 
-ORIGIN_AIRPORT: Location of the airport that the flight was scheduled to depart from
+- ORIGIN_AIRPORT: Location of the airport that the flight was scheduled to depart from
 
-DESTINATION_AIRPORT: Location of the airport that the flight was scheduled to arrive at
+- DESTINATION_AIRPORT: Location of the airport that the flight was scheduled to arrive at
 
-SCHEDULED_DEPARTURE: Scheduled Departure time of flight
+- SCHEDULED_DEPARTURE: Scheduled Departure time of flight
 
-SCHEDULED_TIME: Amount of time flight was scheduled to take
+- SCHEDULED_TIME: Amount of time flight was scheduled to take
 
-DISTANCE: Distance between ORIGIN_AIRPORT and DESTINATION_AIRPORT
+- DISTANCE: Distance between ORIGIN_AIRPORT and DESTINATION_AIRPORT
 
-SCHEDULED_ARRIVAL: Flight's scheduled time of arrival
+- SCHEDULED_ARRIVAL: Flight's scheduled time of arrival
 
-CANCELLED: Flight's cancellation status
+- CANCELLED: Flight's cancellation status
 
-Dataset Files
-public_flights.csv - Dataset to train and analyze pred_flights.csv - Dataset to predict flights' cancellation status
+## Dataset Files (data)
 
-Submission
-The file should contain predictions made on the pred_flights.csv file, and it should have the following format:
-```
+- public_flights.csv - Dataset to train and analyze 
+- pred_flights.csv - Dataset to predict flights' cancellation status
+
+## Submission
+The file should contain predictions made on the pred_flights.csv file, and it should have the following format: 
+0
+1
+0
+0
+
+The file is "resultado.txt"
+
+
