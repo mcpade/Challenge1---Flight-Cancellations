@@ -36,6 +36,12 @@ Each column in the dataset is labeled and explained in more detail below.
 
 - CANCELLED: Flight's cancellation status
 
+## Evaluation
+
+$$\begin{equation*}
+accuracy = \frac{TP + TN}{TP + TN + FP + FN}
+\end{equation*}$$
+
 ## Dataset Files (data)
 
 - public_flights.csv - Dataset to train and analyze 
