@@ -43,9 +43,13 @@ Each column in the dataset is labeled and explained in more detail below.
 
 ## Submission
 The file should contain predictions made on the pred_flights.csv file, and it should have the following format: 
+
 0
+
 1
+
 0
+
 0
 
 The file is "resultado.txt"
